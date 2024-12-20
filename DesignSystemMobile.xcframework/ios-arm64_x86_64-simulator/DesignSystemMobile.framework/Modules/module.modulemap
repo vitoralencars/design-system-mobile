@@ -1,0 +1,5 @@
+framework module "DesignSystemMobile" {
+    umbrella header "DesignSystemMobile.h"
+    export *
+    module * { export * }
+}
